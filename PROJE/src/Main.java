@@ -47,7 +47,7 @@ public class Main {
 
 //Admin menüden  ekleme cikarma yapabilir
         Urun cay = new Urun(7, "Çay", 8, "İçecek");
-        // admin.metodunu yazdıysan burada çağırabilirsin
+        
 
 
         System.out.println("\n=== Sipariş 1 Bilgileri ===");
